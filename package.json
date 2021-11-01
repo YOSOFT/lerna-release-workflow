@@ -1,10 +1,10 @@
 {
   "name": "lerna-release-workflow",
   "private": true,
-  "author": "Jon Wahlström <ejfwahlstrom@gmail.com>",
+  "author": "Julio Ramirez <julio.ramirez@yosoft.com.co>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonwa/lerna-release-workflow.git"
+    "url": "https://github.com/yosoft/lerna-release-workflow.git"
   },
   "workspaces": [
     "packages/*"
